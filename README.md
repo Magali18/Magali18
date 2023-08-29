@@ -1,4 +1,4 @@
-### Hi there my name is Magali Pereyra <3
+### Hi there my name is Magali Pereyra ❤️
 
 <!--
 **Magali18/Magali18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
