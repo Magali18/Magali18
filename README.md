@@ -1,7 +1,6 @@
 ### Hi there i'm Magali Pereyra  ❤
 Tengo 26 años, soy Argentina. 🌼
-
-
+![Screenshot_41](https://github.com/Magali18/Magali18/assets/98051334/78a663e1-e5ec-4c8f-ba59-e6989401234b)
 -  💻 Ahora estoy working on my carrera como developer
 - 💬 Ask me about desarrollo web.
 - 🌱 I’m currently learning Type Script.
