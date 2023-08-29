@@ -1,12 +1,12 @@
 ### Hi there i'm Magali Pereyra  ❤
-Tengo 26 años, soy Argentina. 🌼
+I am 26 years old, I am Argentine. 🌼
 ![Screenshot_41](https://github.com/Magali18/Magali18/assets/98051334/78a663e1-e5ec-4c8f-ba59-e6989401234b)
--  💻 Ahora estoy working on my carrera como desarrolladora
-- 💬 Ask me about desarrollo web.
+-  💻 Now I'm working on my career as a developer
+- 💬 Ask me about web development.
 - 🌱 I’m currently learning Type Script.
-- ⚡ Fun fact: En el futuro quisiera generar impacto en el mundo de la tecnologia.
+- ⚡ Fun fact: In the future I would like to make an impact in the world of technology.
 
-<h3> Hbilidades Tecnologicas </h3>
+<h3>Technological Skills </h3>
 
 - 💻  
 
