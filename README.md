@@ -5,6 +5,6 @@ Tengo 26 años, soy Argentina.
 - 🔭 I’m currently working on my carrera como developer
 - 🌱 I’m currently learning Type Script.
 - 💬 Ask me about desarrollo web.
-- 📫 How to reach me: 
+
 
 - ⚡ Fun fact: En el futuro quisiera generar impacto en el mundo de la tecnologia.
