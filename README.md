@@ -3,7 +3,7 @@ I am 26 years old, I am Argentine. 🌼
 ![Screenshot_41](https://github.com/Magali18/Magali18/assets/98051334/78a663e1-e5ec-4c8f-ba59-e6989401234b)
 -  💻 Now I'm working on my career as a developer
 - 💬 Ask me about web development.
-- 🌱 I’m currently learning Testing.
+- 🌱 I’m currently learning TypeScript.
 - ⚡ Fun fact: In the future I would like to make an impact in the world of technology.
 
 <h3>Technological Skills </h3>
