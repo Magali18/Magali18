@@ -4,7 +4,6 @@ I am 26 years old, I am Argentine. 🌼
 -  💻 Now I'm working on my career as a developer
 - 💬 Ask me about web development.
 - 🌱 I’m currently learning TypeScript.
-- ⚡ Fun fact: In the future I would like to make an impact in the world of technology.
 
 <h3>Technological Skills </h3>
 
