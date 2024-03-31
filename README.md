@@ -1,5 +1,5 @@
 ### Hi there i'm Magali Pereyra  ❤
-I am 26 years old, I am Argentine. 🌼
+I am 27 years old, I am Argentine. 🌼
 ![Screenshot_41](https://github.com/Magali18/Magali18/assets/98051334/78a663e1-e5ec-4c8f-ba59-e6989401234b)
 -  💻 Now I'm working on my career as a developer
 - 💬 Ask me about web development.
